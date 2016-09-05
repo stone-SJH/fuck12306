@@ -1,4 +1,4 @@
-package fuck12306.page;
+package page;
 
 import org.openqa.selenium.*;
 
