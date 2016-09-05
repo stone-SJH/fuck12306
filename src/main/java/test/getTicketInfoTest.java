@@ -1,13 +1,13 @@
-package fuck12306.test;
+package test;
 
 /**
  * Created by stoneshi on 16/9/5.
  */
-import fuck12306.page.LeftTicketInitPage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import page.LeftTicketInitPage;
 
 public class getTicketInfoTest {
 
